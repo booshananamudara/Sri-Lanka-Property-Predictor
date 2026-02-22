@@ -1,0 +1,29 @@
+# Web Scraping
+requests
+beautifulsoup4
+lxml
+
+# Data Processing
+pandas
+numpy
+
+# Machine Learning
+catboost
+scikit-learn
+
+# Explainable AI
+shap
+
+# Visualization
+matplotlib
+seaborn
+
+# Model Serialization — using Python's built-in pickle (.pkl)
+
+# Backend API
+fastapi
+uvicorn
+
+# Jupyter Notebook
+jupyter
+notebook
