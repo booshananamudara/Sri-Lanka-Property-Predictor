@@ -158,4 +158,4 @@ The project uses **SHAP (SHapley Additive exPlanations)** to explain model predi
 
 ## 📝 License
 
-This project was created for academic purposes (MSc in AI - Machine Learning Assignment).
+This project was created for academic purposes (BSc in IT - Machine Learning Assignment).
